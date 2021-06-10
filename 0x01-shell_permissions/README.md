@@ -1,0 +1,1 @@
+all scripts reveal the command for the tasks 
